@@ -16,15 +16,15 @@
     "true": true,
     "ingress": true,
     "timeout": 30,
-    "panel_icon": "mdi:zigbee",
+    "panel_icon": "mdi:database-edit",
     "map": [
       "config:ro"
     ],
     "ports": {
-      "8099/tcp": null
+      "8888/tcp": null
     },
     "ports_description": {
-      "8099/tcp": "Frontend tcp-listen port"
+      "8888/tcp": "Frontend tcp-listen port"
     },
     "options": {
       "server": null,
