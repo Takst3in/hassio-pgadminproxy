@@ -1,6 +1,6 @@
 {
     "name": "PgAdmin Proxy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "slug": "PgAdmin_proxy",
     "description": "Proxy for externally running PgAdmin",
     "url": "https://github.com/Takst3in/hassio-pgadminproxy/tree/master/pgadmin-proxy",
