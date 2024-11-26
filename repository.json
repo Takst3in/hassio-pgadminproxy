@@ -1,5 +1,5 @@
 {
   "name": "Home Assistant Add-on: PgAdminProxy",
-  "url": "https://github.com/Takst3in/hassio-pgadminproxy/pgadmin-proxy",
+  "url": "https://github.com/Takst3in/hassio-pgadminproxy/",
   "maintainer": "Stian Espe <espe@live.com>"
 }
